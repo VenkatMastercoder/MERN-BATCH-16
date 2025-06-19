@@ -1,0 +1,15 @@
+{
+  "name": "backend-batch-13",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cal-batch-13": "^1.0.0"
+  }
+}
